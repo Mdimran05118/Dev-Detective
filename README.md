@@ -2,9 +2,13 @@
 
 > A client-side GitHub profile search engine and developer battle arena engineered with **100% pure vanilla HTML5, CSS3, and modern JavaScript (ES6+)**. No frameworks, no bundlers, zero dependencies.
 
+🚀 **Live App:** [https://dev-detective-azure-tau.vercel.app](https://dev-detective-azure-tau.vercel.app)
+
 ---
 
 ## 🌟 Live Demo & Preview Placeholders
+
+🔗 **Live Demo URL:** [https://dev-detective-azure-tau.vercel.app](https://dev-detective-azure-tau.vercel.app)
 
 | Single Search & Profile Card | Latest Repositories Grid |
 | :---: | :---: |
